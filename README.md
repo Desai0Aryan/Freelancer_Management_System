@@ -1,4 +1,10 @@
 README
+The Freelance Job Management System is a simple Java GUI application built with NetBeans that allows users to manage freelancers, clients, and job contracts. It features full CRUD (Create, Read, Update, Delete) functionality for all three entities. Users can easily add, view, edit, or delete records through an intuitive graphical interface.
+
+
+Download Instructions
+
+
 Download this project ZIP file.
 
 Open NetBeans IDE.
