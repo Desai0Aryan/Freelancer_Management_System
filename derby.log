@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Mon Jun 09 16:36:48 EDT 2025:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.10.2.0 - (1582446): instance a816c00e-0197-5668-f601-000007364d78 
+on database directory /Users/aryan/Desktop/Freelance_Job_Management_System1/freenlancedb with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@18ff02e4 
+Loaded from file:/Users/aryan/Desktop/Freelance_Job_Management_System1/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=23+37-2369
+user.dir=/Users/aryan/Desktop/Freelance_Job_Management_System1
+os.name=Mac OS X
+os.arch=aarch64
+os.version=15.5
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
