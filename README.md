@@ -5,7 +5,7 @@ Open NetBeans IDE.
 
 Import the ZIP file into NetBeans (File → Import Project → From ZIP).
 
-Build the project (Run → Build Project).
+Build the project (Clean and Build Project).
 
 Run the project to launch the GUI (Run → Run Project).
 
